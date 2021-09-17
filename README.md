@@ -1,6 +1,8 @@
 # movie_app
 
-A new Flutter project.
+GoldenMovie App that app using api themoviedb 'http://api.themoviedb.org/3/'
+Using more thechnolgy in this app like using ScopedModelDescendant statmanagment and other technologies
+like youtubePlayer webview and other...
 
 ## Getting Started
 
